@@ -2,6 +2,13 @@
     font-family: "Monserrat", sans-serif;
 }
 
+html {
+    background-image: url(/Assets/background.avif);
+}
+p {
+    color: rgb(170, 167, 167);
+}
+
 li {
     list-style: none;
 }
@@ -13,3 +20,8 @@ a{
     font-size: 1.2rem;
 }
 
+.content-btn .btn {
+    background-color: rgb(48, 185, 209);
+    font-size: 1.5rem;
+    color: #f1f8f5;
+}
